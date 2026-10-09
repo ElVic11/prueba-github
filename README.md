@@ -1,2 +1,2 @@
-#Mi primer proyecto con GitHub
-Estoy aprendiendo Git y GitHub. 
+# Mi primer proyecto con GitHub
+stoy aprendiendo Git y GitHub. 

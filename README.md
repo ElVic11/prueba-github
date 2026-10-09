@@ -1,2 +1,2 @@
 # Mi primer proyecto con GitHub
-\ Estoy aprendiendo Git y GitHub. 
+ Estoy aprendiendo Git y GitHub. 
